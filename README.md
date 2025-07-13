@@ -58,7 +58,7 @@ converted to RGB.
 3) ​Map that index or the cluster number to its corresponding label using the class-label dictionary.
 
 
-## CNN From Scratch (Model 1)
+## 🤖 CNN From Scratch (Model 1)
 
 ### Model Architecture
 
@@ -94,7 +94,7 @@ We explored two methods to assign a label to each cluster in order to compute th
 
 Both methods gave us similar performances.
 
-## CNN using Pytorch
+## 🤖 CNN using Pytorch
 
 ### Model Architecture
 
@@ -104,7 +104,7 @@ Both methods gave us similar performances.
 
 ![Model 2 Results](images/Model%202%20Results.png)
 
-## CNN Fine-Tuning (ResNet18 Model)
+## 🤖 CNN Fine-Tuning (ResNet18 Model)
 
 ### Results
 
