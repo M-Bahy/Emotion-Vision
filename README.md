@@ -30,16 +30,23 @@ converted to RGB.
 4) The dataset was split into training, validation, and test sets in a 70 /
 20 / 10 ratio. The following is a visualization for the classes per set: 
 - Training Set:
+
 ![Training Set Samples](images/Training%20Set%20Samples.png)
+
 - Validation Set:
+
 ![Validation Set Samples](images/Validation%20Set%20Samples.png)
+
 - Testing Set:
+
 ![Testing Set Samples](images/Testing%20Set%20Samples.png)
+
 5) The training set was augmented on the fly using the following transformations:
    - Random horizontal flip
    - Random vertical flips
    - Random rotations
    - Random brightness adjustments
+   
    ![Augmented Dataset](images/Augmented%20Dataset.png)
 
 ### Post Processing Steps
