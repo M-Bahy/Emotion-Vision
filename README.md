@@ -8,16 +8,12 @@ A convolutional neural network to classify emotion in frames taken from Egyptian
 
 ## 📄 Table of Contents
 
-<!-- - [🚀 Tech Stack](#-tech-stack)
-- [✨ Features](#-features) -->
+
 - [🗄️ Dataset](#️-dataset)
 - [🤖 CNN From Scratch (Model 1)](#-cnn-from-scratch-model-1)
-- [🤖 CNN using Pytorch (Model 2)](#-cnn-fine-tuning-resnet18-model)
-- [🤖 CNN Fine-Tuning (ResNet18 Model)](#-cnn-fine-tuning-model-2)
-<!-- - [🔗 REST API Endpoints](#-rest-api-endpoints)
-- [🛠️ Setup Instructions](#️-setup-instructions)
-- [📖 API Usage Examples](#-api-usage-examples)
-- [📁 Project Structure](#-project-structure) -->
+- [🤖 CNN using Pytorch (Model 2)](#-cnn-using-pytorch-model-2)
+- [🤖 CNN Fine-Tuning (ResNet18 Model)](#-cnn-fine-tuning-resnet18-model)
+
 
 ## 🗄️ Dataset
 
