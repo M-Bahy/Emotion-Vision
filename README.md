@@ -90,7 +90,7 @@ We explored two methods to assign a label to each cluster in order to compute th
 
 Both methods gave us similar performances.
 
-## 🤖 CNN using Pytorch
+## 🤖 CNN using Pytorch (Model 2)
 
 ### Model Architecture
 
